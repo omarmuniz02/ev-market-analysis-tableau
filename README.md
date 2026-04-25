@@ -24,6 +24,7 @@ This project focuses on answering the following data-driven questions:
 ## 📊 Dashboard Preview
 ![Dashboard Overview](images/dashboard_overview.png)
 
+[Interactive Dashboard](https://public.tableau.com/app/profile/omar.muniz/viz/ev_market_analysis/Dashboard1)
 ---
 
 ## 🔍 Focused Analysis Views
